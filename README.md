@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayansh-HH-code
-- 👀 I’m interested in hard ethical hacking
+- 👀 I’m interested in hard ethical and blackhat hacking
 - 🌱 I’m currently learning ethical hacking pahse 8
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me my email--blackaddon3907@gmail.com
